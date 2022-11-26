@@ -1,0 +1,25 @@
+body {
+   margin: 0; 
+   background-color: #e4e8f0;
+   color: #e76b47;
+   text-align: center;
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+#valor{
+    font-size: 90px;
+    font-weight: bold;
+}
+.btn{
+  font-size: 25px;
+  border: none;
+  background-color: #3b67e4;
+  color: aliceblue; 
+  cursor: pointer; 
+}
+.btn:hover{
+    color: #efff;
+    background-color: black;
+}
